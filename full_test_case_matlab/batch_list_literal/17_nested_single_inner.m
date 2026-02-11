@@ -1,0 +1,8 @@
+% 17_nested_single_inner.ael - 只有一个内层列表
+% 目的：测试单个内层列表的OP=53模式
+% 预期：可能 2个OP=53（如果第一个特殊规则适用）
+a = [];
+
+function test_nested_single()
+    a = {{1, 2}};
+end

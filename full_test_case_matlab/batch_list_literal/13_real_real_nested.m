@@ -1,0 +1,7 @@
+% 13_real_real_nested.ael - 嵌套列表（纯实数）
+% 目的：观察 {{1.5, 2.5}, {3.5, 4.5}} 的 IR 模式
+a = [];
+
+function test_real_real_nested()
+    a = {{1.5, 2.5}, {3.5, 4.5}};
+end

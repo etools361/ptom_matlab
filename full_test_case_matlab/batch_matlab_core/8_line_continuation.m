@@ -1,0 +1,6 @@
+function out = core_line_continuation(a, b, c, d, e)
+% Use ... to continue a long expression across lines.
+    out = a + b + ...
+        c * d + ...
+        e;
+end

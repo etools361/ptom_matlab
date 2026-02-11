@@ -1,0 +1,14 @@
+% 7_switch_dense.ael - switch/case 密集分支
+% 目的：覆盖 0,1,2 三个 case + default，对应 demo_mmWave_Text_art.ael 中的 switch 结构
+x = 1;
+a = 0;
+switch x
+case 0
+    a = 10;
+case 1
+    a = 20;
+case 2
+    a = 30;
+otherwise
+    a = -1;
+end

@@ -1,0 +1,6 @@
+% MATLAB operators: matrix ops
+A = [1 2; 3 4];
+b = [1; 1];
+x = A \ b;
+y = b' / A;
+z = A ^ 2;

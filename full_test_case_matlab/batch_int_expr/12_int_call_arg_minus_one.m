@@ -1,0 +1,3 @@
+% 12.ael - 函数调用参数中使用 -1
+% 目的：直接测试 set_design_type(-1) 这一模式的编码
+set_design_type(-1);

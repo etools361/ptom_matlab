@@ -1,0 +1,3 @@
+% 4.ael - 单语句，包含百分号和格式占位符
+% 目的：%d %s 等在 ATF 中的编码（类似 create_item 中的格式串）
+s = 'value=%d, name=%s';

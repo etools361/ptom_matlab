@@ -1,0 +1,3 @@
+% 4.ael - 单语句，(true && false)
+% 目的：AND 运算的模式
+a = true && false;

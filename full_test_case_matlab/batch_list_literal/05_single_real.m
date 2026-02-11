@@ -1,0 +1,7 @@
+% 05_single_real.ael - 单元素列表（实数）
+% 目的：观察 {1.5} 的 IR 模式，对比整数版本
+a = [];
+
+function test_single_real()
+    a = {1.5};
+end

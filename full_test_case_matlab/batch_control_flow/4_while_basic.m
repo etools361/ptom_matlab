@@ -1,0 +1,6 @@
+% 4_while_basic.ael - 基本 while 循环
+% 目的：while + 计数器自增
+i = 0;
+while i < 3
+    i = i + 1;
+end

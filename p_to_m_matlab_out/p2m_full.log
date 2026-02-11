@@ -1,0 +1,20 @@
+ 
+要开始，请键入以下项之一: helpwin、helpdesk 或 demo。
+有关产品信息，请访问 www.mathworks.com。
+ 
+[警告: 未找到文件或者权限被拒绝] 
+[> In parallel.internal.cluster.FileStorage>iDirectoryIsReadOnly (line 1132)
+  In parallel.internal.cluster.FileStorage (line 102)
+  In parallel.internal.cluster.FileStorage.createFileStorage (line 127)
+  In parallel.cluster.CJSCluster (line 530)
+  In parallel.cluster.Local (line 364)
+  In parcluster (line 51)
+  In p_to_m_batch (line 129)] 
+[警告: 未找到文件或者权限被拒绝] 
+[> In parallel.internal.cluster.FileStorage>iDirectoryIsReadOnly (line 1132)
+  In parallel.internal.cluster.FileStorage (line 102)
+  In parallel.internal.cluster.FileStorage.createFileStorage (line 127)
+  In parallel.cluster.CJSCluster/hSetProperty (line 390)
+  In parallel.cluster.Local/hSetProperty (line 296)
+  In p_to_m_batch (line 137)] 
+Starting parallel pool (parpool) using the 'local' profile ... connected to 4 workers.

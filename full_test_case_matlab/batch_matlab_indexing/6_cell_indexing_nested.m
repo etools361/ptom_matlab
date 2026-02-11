@@ -1,0 +1,5 @@
+% MATLAB indexing: nested cell indexing
+C = { {1, 2}, {3, 4} };
+x = C{1}{2};
+y = C{2};
+C{2} = [7 8];

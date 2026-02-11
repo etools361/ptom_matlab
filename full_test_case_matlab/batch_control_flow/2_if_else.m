@@ -1,0 +1,8 @@
+% 2_if_else.ael - if-else 结构
+% 目的：生成典型的 2 分支 CFG
+a = 0;
+if 2 > 1
+    a = 1;
+else
+    a = -1;
+end

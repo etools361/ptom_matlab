@@ -1,0 +1,3 @@
+% 2.ael - 单语句，布尔常量 false
+% 目的：观察 false 的 IR / ATF / VM 编码
+a = false;

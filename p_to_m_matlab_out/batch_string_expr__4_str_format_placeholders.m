@@ -1,0 +1,1 @@
+s ='value=%d, name=%s' ;

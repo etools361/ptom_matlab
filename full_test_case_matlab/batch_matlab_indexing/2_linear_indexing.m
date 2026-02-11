@@ -1,0 +1,5 @@
+% MATLAB indexing: linear indexing and colon
+A = [1 2; 3 4];
+v = A(:);
+w = A(3);
+A(4) = 9;

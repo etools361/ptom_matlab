@@ -1,0 +1,6 @@
+% 9.ael - 模拟 log("value=%d", 1) 模式
+% 目的：简单函数调用 + 格式串 + 整数参数
+
+function log_demo()
+    warning('aelcmd', 16, '', 'value=%d, name=%s');
+end

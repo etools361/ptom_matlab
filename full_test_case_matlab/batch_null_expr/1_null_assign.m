@@ -1,0 +1,3 @@
+% 1_null_assign.ael - NULL 作为右值
+% 目的：显式测试 decl p = NULL; 模式
+p = [];

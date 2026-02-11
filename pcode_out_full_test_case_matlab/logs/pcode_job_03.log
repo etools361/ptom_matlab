@@ -1,0 +1,20 @@
+ 
+要开始，请键入以下项之一: helpwin、helpdesk 或 demo。
+有关产品信息，请访问 www.mathworks.com。
+ 
+[警告: 文件:E:\work\prog\github\ptom_matlab\pcode_out_full_test_case_matlab\_stage\job_03\generalization_quality\15_long_tokens.m 行:4
+列:5
+'veryLongIdentifierName_ABCDEFGHIJKLMNOPQRSTUVWXYZ_abcdefghijklmnopqrstuvwxyz_0123456789_ABCDEFGHIJKLMNOPQRSTUVWXYZ_abcdefghijklmnopqrstuvwxyz_0123456789_ABCDEFGHIJKLMNOPQRSTUVWXYZ_abcdefghijklmnopqrstuvwxyz_0123456789'
+超过 MATLAB 的最大名称长度(63 个字符)，将被截断为 'veryLongIdentifierName_ABCDEFGHIJKLMNOPQRSTUVWXYZ_abcdefghijklm'。] 
+[> In pcode>pcodefile (line 247)
+  In pcode (line 218)
+  In run_pcode_job (line 9)
+  In run (line 96)] 
+[警告: 文件:E:\work\prog\github\ptom_matlab\pcode_out_full_test_case_matlab\_stage\job_03\generalization_quality\15_long_tokens.m 行:5
+列:5
+'veryLongIdentifierName_ABCDEFGHIJKLMNOPQRSTUVWXYZ_abcdefghijklmnopqrstuvwxyz_0123456789_ABCDEFGHIJKLMNOPQRSTUVWXYZ_abcdefghijklmnopqrstuvwxyz_0123456789_ABCDEFGHIJKLMNOPQRSTUVWXYZ_abcdefghijklmnopqrstuvwxyz_0123456789'
+超过 MATLAB 的最大名称长度(63 个字符)，将被截断为 'veryLongIdentifierName_ABCDEFGHIJKLMNOPQRSTUVWXYZ_abcdefghijklm'。] 
+[> In pcode>pcodefile (line 247)
+  In pcode (line 218)
+  In run_pcode_job (line 9)
+  In run (line 96)] 

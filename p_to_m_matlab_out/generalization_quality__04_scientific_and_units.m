@@ -1,0 +1,10 @@
+function out =genq_scientific_and_units()
+    a =[];
+    b =[];
+    c =[];
+    a =1.0e-3 ;
+    b =2.5e+2 ;
+    c =10 *um + 5 *mm + 2.0e-6 *m ;
+    out =a + b + c ;
+    return ;
+end

@@ -1,0 +1,3 @@
+% p016_null_assign.ael
+% 最小复现：decl-init 右值为 NULL（确保不会被当作变量名）
+p = [];

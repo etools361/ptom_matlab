@@ -1,0 +1,3 @@
+spmd
+    x =labindex ;
+end

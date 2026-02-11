@@ -1,0 +1,8 @@
+% 15_nested_first_one_elem.ael - 第一个内层列表1元素，后续2元素
+% 目的：测试"第一个内层列表特殊"的假设
+% 预期：第一个列表 1个OP=53，第二个列表 1个OP=53
+a = [];
+
+function test_nested_first_one()
+    a = {{1}, {2, 3}};
+end

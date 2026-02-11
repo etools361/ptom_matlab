@@ -1,0 +1,3 @@
+% 2.ael - 单语句，带空格和标点的字符串
+% 目的：\"Hello, World!\" 的编码
+s = 'Hello, World!';
